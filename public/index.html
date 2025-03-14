@@ -1,12 +1,79 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Notícias Rápidas</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+
+    <header class="cabecalho">
+        <img src="news2.jpg" alt="logo do site" class="logotipo">
+        <h1>Notícias da Hora</h1>
+        <nav class="menu-pesquisa">
+            <form action="busca.html" method="GET">
+                <input type="search" name="query" placeholder="Encontre algo..." required>
+                <button type="submit">Pesquisar</button>
+            </form>
+        </nav>
+    </header>
+
+    <div class="conteudo">
+
+        <section class="noticia">
+            <div class="imagem">
+                <img src="news.jpg" alt="Imagem notícia 1">
+            </div>
+            <article class="detalhes">
+                <h2>Últimas novidades sobre o mercado financeiro</h2>
+                <p>27/02/2025 - <strong>Juliana Santos</strong> - <em>[Economia]</em></p>
+                <p>Descubra como as mudanças na política econômica podem afetar seu bolso. Em tempos de incerteza, é essencial entender os principais pontos que podem mudar o cenário.</p>
+                <a href="#">Leia mais...</a>
+            </article>
+        </section>
+
+        <section class="noticia">
+            <div class="imagem">
+                <img src="news.jpg" alt="Imagem notícia 2">
+            </div>
+            <article class="detalhes">
+                <h2>Nova tecnologia promete revolucionar a saúde</h2>
+                <p>22/02/2025 - <strong>Marco Silva</strong> - <em>[Tecnologia]</em></p>
+                <p>O lançamento de uma nova tecnologia promete melhorar diagnósticos médicos e aumentar a eficiência no tratamento de doenças complexas.</p>
+                <a href="#">Leia mais...</a>
+            </article>
+        </section>
+
+        <section class="noticia">
+            <div class="imagem">
+                <img src="news.jpg" alt="Imagem notícia 3">
+            </div>
+            <article class="detalhes">
+                <h2>O impacto das mudanças climáticas no mundo</h2>
+                <p>17/02/2025 - <strong>Ana Costa</strong> - <em>[Meio Ambiente]</em></p>
+                <p>Estudos recentes apontam que os efeitos das mudanças climáticas são mais severos do que o previsto. Entenda os dados mais recentes e o que está sendo feito para mitigar esses impactos.</p>
+                <a href="#">Leia mais...</a>
+            </article>
+        </section>
+
+    </div>
+
+    <aside class="categorias">
+        <h3>Categorias</h3>
+        <ul>
+            <li><a href="politica.html">Política</a></li>
+            <li><a href="saude.html">Saúde</a></li>
+            <li><a href="tecnologia.html">Tecnologia</a></li>
+            <li><a href="econimia.html">Economia</a></li>
+            <li><a href="esportes.html">Esportes</a></li>
+        </ul>
+    </aside>
+
+    <footer class="rodape">
+        <p>&copy; 2025 Notícias Rápidas</p>
+        <p>Desenvolvido por <a href="https://www.instagram.com/gabriellottv/">Gabriel Lott</a></p>
+    </footer>
+
 </body>
 </html>
