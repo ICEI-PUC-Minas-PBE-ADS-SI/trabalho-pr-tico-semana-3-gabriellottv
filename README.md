@@ -20,4 +20,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-![alt text](<Captura de tela 2025-03-16 195725.png>)
+[![alt text](<Captura de tela 2025-03-16 195725.png>)
+](https://github.com/ICEI-PUC-Minas-PBE-ADS-SI/trabalho-pr-tico-semana-3-gabriellottv/blob/develop/public/Captura%20de%20tela%202025-03-16%20195725.png)
