@@ -8,17 +8,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Lott Vilela
+- Matricula: 1579890
+- Proposta de projeto escolhida: Noticias  
+- Breve descrição sobre seu projeto: Deixar meus leitores informados sobre as ultimas noticias
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](esboco.jpg)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<Captura de tela 2025-03-16 195725.png>)
